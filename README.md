@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @galuhsatriaa
-- 👀 I’m interested in frontend webdeveloper
-- 🌱 I’m currently learning about web development
-- 📫 - galuhsatria219@gmail.com
+# Hi there, I'm Galuh! 👋
+  A Passionate Front-End Developer.
 
-<!---
-galuhsatriaa/galuhsatriaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Statistics
+
+<div>
+  <a href="https://github.com/galuhsatria?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=galuhsatria&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galuhsatria&layout=compact&theme=react&hide=php&langs_count=6" />
+</div>
