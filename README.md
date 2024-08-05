@@ -1,6 +1,6 @@
 #### Bio
 
-- I’m currently learning Next JS
+- current favorite tech stack (Next Js, Tailwind, Shadcn)
 - I’m student
 
 #### Statistics
