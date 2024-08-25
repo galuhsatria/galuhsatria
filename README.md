@@ -1,7 +1,6 @@
-#### Bio
+### Halo, Saya <a href="https://galuhsatria.vercel.app/" target="_blank">Galuh Satria</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+### Senang bertemu Anda! &nbsp;
 
-- current favorite tech stack (Next Js, Tailwind, Shadcn)
-- I’m student
 
 #### Statistics
 
