@@ -1,6 +1,16 @@
-### Halo, Saya <a href="https://galuhsatria.vercel.app/" target="_blank">Galuh Satria</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-### Senang bertemu Anda! &nbsp;
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Galuh Satria
+====================================================================================================================================
 
+Frontend Developer
+------------------
+
+Frontend Developer who likes to build a product that can be useful for everyone. I usually work using technologies such as Next Js, Tailwind CSS, Prisma and some other great technologies.
+
+* 🌍  I'm based in Mataram, Indonesia
+* 🖥️  See my portfolio at [galuhsatria.vercel.app](http://galuhsatria.vercel.app)
+* ✉️  You can contact me at [galuhsatriadev@gmail.com](mailto:galuhsatriadev@gmail.com)
+* 🧠  I'm learning React Native with Expo
+* 🤝  I'm open to collaborating on Interesting Project
 
 #### Statistics
 
