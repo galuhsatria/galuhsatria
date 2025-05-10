@@ -9,7 +9,7 @@ Frontend Developer who likes to build a product that can be useful for everyone.
 * 🌍  I'm based in Mataram, Indonesia
 * 🖥️  See my portfolio at [galuhsatria.vercel.app](http://galuhsatria.vercel.app)
 * ✉️  You can contact me at [galuhsatriadev@gmail.com](mailto:galuhsatriadev@gmail.com)
-* 🧠  I'm learning React Native with Expo
+* 🧠  I'm learning Backend using Node jS
 * 🤝  I'm open to collaborating on Interesting Project
 
 #### Statistics
