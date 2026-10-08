@@ -7,7 +7,7 @@ Frontend Developer
 Frontend Developer who likes to build a product that can be useful for everyone. I usually work using technologies such as Next Js, Tailwind CSS, Prisma and some other great technologies.
 
 * 🌍  I'm based in Mataram, Indonesia
-* 🖥️  See my portfolio at [galuhsatria.vercel.app](http://galuhsatria.vercel.app)
+* 🖥️  See my portfolio at [galuhsatria.vercel.app](http://galuhsatria.space)
 * ✉️  You can contact me at [galuhsatriadev@gmail.com](mailto:galuhsatriadev@gmail.com)
 * 🧠  I'm learning Backend using Node Js
 * 🤝  I'm open to collaborating on Interesting Project
